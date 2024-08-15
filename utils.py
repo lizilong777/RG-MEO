@@ -6,7 +6,6 @@ from torch_geometric.data import Data
 from collections import defaultdict
 
 
-# # 创建每个实体的邻居集合
 # neighbors = defaultdict(lambda: defaultdict(set))
 #
 # for head, tail, relation in triplets:
